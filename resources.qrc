@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>fireball.png</file>
+        <file>grass.jpg</file>
+        <file>mage1.png</file>
+        <file>mage2.png</file>
+        <file>magicball.png</file>
+        <file>tankball.png</file>
+        <file>wall.jpg</file>
+        <file>water.jpg</file>
+        <file>waterball.png</file>
+        <file>playerwins.jpg</file>
+        <file>enemywins.jpg</file>
+    </qresource>
+</RCC>
